@@ -2,7 +2,7 @@ using System;
 
 namespace LogSystem
 {
-    /// Um Observador Concreto que reage ao log exibindo-o no console
+    // Um Observador Concreto que reage ao log exibindo-o no console
     public class ConsoleObserver : ILogObserver
     {
         public void Update(string message)
