@@ -2,7 +2,7 @@ using System;
 
 namespace LogSystem
 {
-    /// Outro Observador Concreto que simula a gravação do log em um arquivo
+    // Outro Observador Concreto que simula a gravação do log em um arquivo
     public class FileObserver : ILogObserver
     {
         public void Update(string message)
