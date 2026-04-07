@@ -15,6 +15,7 @@ Usei a estrutura do Observer para que o Logger não precise saber detalhes de co
 - **Program.cs**: Arquivo onde eu criei os objetos e testei se o Subscribe e o Unsubscribe estavam funcionando como esperado.
 
 ## Como rodar o código:
-Como é um projeto em C#, basta abrir a pasta no terminal e rodar o comando:
+O repositório já contém o arquivo de projeto (`.csproj`). Para executar, basta abrir a pasta no terminal e digitar:
+
 ```bash
 dotnet run
