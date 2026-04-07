@@ -1,4 +1,4 @@
-# Exercício de POO - Padrão Observer (Logger)
+# Exercício de ProjOO - Padrão Observer (Logger)
 
 Esse repositório tem a minha resolução para o exercício sobre o padrão de projeto Observer, que o Prof. Fábio Fagundes Silveira passou na aula do dia 07/04/2026
 
