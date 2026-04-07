@@ -2,8 +2,8 @@ using System.Collections.Generic;
 
 namespace LogSystem
 {
-    /// O Sujeito mantém a lista de observadores e os notifica.
-    /// Ele não conhece os detalhes de como o log é processado 
+    // O Sujeito mantém a lista de observadores e os notifica.
+    // Ele não conhece os detalhes de como o log é processado 
     public class Logger
     {
         // Estrutura de dados que armazena os observadores registrados
